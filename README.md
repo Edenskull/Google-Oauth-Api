@@ -14,8 +14,6 @@ You'll need to download google-api-python-client and oauth2client to use this fi
 pip install --upgrade google-api-python-client oauth2client
 ```
 
-### Installing
-
 ## Deployment and Modification
 
 You can change the scope to what API you need to use [there](https://developers.google.com/identity/protocols/googlescopes) is the list of Scopes you can set.  
